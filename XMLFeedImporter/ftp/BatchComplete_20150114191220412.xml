@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<echo:ManifestMessage xmlns:echo="http://ddex.net/xml/2011/echo/11"
+                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:schemaLocation="http://ddex.net/xml/2011/echo/11 http://ddex.net/xml/2011/echo/11/echo.xsd"
+                      MessageVersionId="2010/ern-main/312">
+  <MessageHeader>
+    <MessageSender>
+      <PartyId>PADPIDA20090302015</PartyId>
+      <PartyName>
+        <FullName>Consolidated Independent Ltd</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PADPIDA2007011501Q</PartyId>
+      <PartyName>
+        <FullName>The state51 Conspiracy</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2015-01-14T19:12:20Z</MessageCreatedDateTime>
+    <!-- Message type echo:ManifestMessage -->
+    <!-- Message version 20110307 -->
+    <!-- Generated using code version 2014121901 -->
+  </MessageHeader>
+  <IsTestFlag>true</IsTestFlag>
+  <DeliveryType UserDefinedValue="Mixed"
+                Namespace="DPID:PADPIDA20090302015">UserDefined</DeliveryType>
+  <BatchProductType UserDefinedValue="Mixed"
+                    Namespace="DPID:PADPIDA20090302015">UserDefined</BatchProductType>
+  <RootDirectory>./</RootDirectory>
+  <NumberOfMessages>3</NumberOfMessages>
+  <MessageInBatch>
+    <MessageType>NewReleaseMessage</MessageType>
+    <MessageId>20864944940266</MessageId>
+    <URL>./A10341T0000008CMPA/A10341T0000008CMPA.xml</URL>
+    <IncludedReleaseId>
+      <GRid>A10341T0000008CMPA</GRid>
+      <ICPN IsEan="true">5055807311489</ICPN>
+      <ProprietaryId Namespace="DPID:PADPIDA20090302015">13449223200032</ProprietaryId>
+    </IncludedReleaseId>
+    <HashSum>
+      <HashSum>JFF2KK5X+BlPkA05B/V2VSMbbuQ</HashSum>
+      <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+    </HashSum>
+  </MessageInBatch>
+  <MessageInBatch>
+    <MessageType>NewReleaseMessage</MessageType>
+    <MessageId>20864948600266</MessageId>
+    <URL>./A10341T0000008CN1H/A10341T0000008CN1H.xml</URL>
+    <IncludedReleaseId>
+      <GRid>A10341T0000008CN1H</GRid>
+      <ICPN IsEan="true">5055807311496</ICPN>
+      <ProprietaryId Namespace="DPID:PADPIDA20090302015">13449232380032</ProprietaryId>
+    </IncludedReleaseId>
+    <HashSum>
+      <HashSum>rBWuymto3gkBNTKmIpjcdxf/mEU</HashSum>
+      <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+    </HashSum>
+  </MessageInBatch>
+  <MessageInBatch>
+    <MessageType>NewReleaseMessage</MessageType>
+    <MessageId>20864953080266</MessageId>
+    <URL>./A10341T0000008CY44/A10341T0000008CY44.xml</URL>
+    <IncludedReleaseId>
+      <GRid>A10341T0000008CY44</GRid>
+      <ICPN IsEan="true">5055807311595</ICPN>
+      <ProprietaryId Namespace="DPID:PADPIDA20090302015">13480637410032</ProprietaryId>
+    </IncludedReleaseId>
+    <HashSum>
+      <HashSum>9fb9oKeLkWlivm76iNkSL0ZXxJA</HashSum>
+      <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+    </HashSum>
+  </MessageInBatch>
+</echo:ManifestMessage>

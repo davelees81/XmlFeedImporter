@@ -1,0 +1,10 @@
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\XMLFeedImporter.Tests.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\XMLFeedImporter.Tests.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\XMLFeedImporter.exe
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\XMLFeedImporter.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\obj\Debug\XMLFeedImporter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\obj\Debug\XMLFeedImporter.Tests.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\obj\Debug\XMLFeedImporter.Tests.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\XMLFeedImporter.Tests.dll.CodeAnalysisLog.xml
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter.Tests\bin\Debug\XMLFeedImporter.Tests.dll.lastcodeanalysissucceeded

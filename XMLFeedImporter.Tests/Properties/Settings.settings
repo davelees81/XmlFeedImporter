@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="XMLFeedImporter.Tests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DatabaseConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=localhost\SQLEXPRESS;Database=SonStream;Trusted_Connection=Yes;</Value>
+    </Setting>
+    <Setting Name="FtpFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\ftp</Value>
+    </Setting>
+    <Setting Name="ProcessedFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\processed</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

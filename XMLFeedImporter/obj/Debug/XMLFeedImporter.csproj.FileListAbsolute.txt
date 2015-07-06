@@ -1,0 +1,8 @@
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\bin\Debug\XMLFeedImporter.exe.config
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\bin\Debug\XMLFeedImporter.exe
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\bin\Debug\XMLFeedImporter.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\obj\Debug\XMLFeedImporter.exe
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\obj\Debug\XMLFeedImporter.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\bin\Debug\XMLFeedImporter.exe.CodeAnalysisLog.xml
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\bin\Debug\XMLFeedImporter.exe.lastcodeanalysissucceeded
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\XMLFeedImporter\XMLFeedImporter\obj\Debug\XMLFeedImporter.csprojResolveAssemblyReference.cache
